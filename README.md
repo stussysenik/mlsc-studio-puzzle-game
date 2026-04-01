@@ -2,6 +2,9 @@
 
 # Mlsc Studio Puzzle Game
 
+![Demo](demo.gif)
+
+
 Interactive painting puzzle experience featuring 30 artworks by Millerscottie. Reconstruct scrambled paintings piece by piece.
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
